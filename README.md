@@ -17,7 +17,7 @@
 Zentry  <span>is a futuristic landing page crafted to showcase the power of animation, scroll-based interactivity, and immersive sound.  
 Perfect for Web3 platforms, portfolios, or experimental digital playgrounds.</span>
   </p>
-  <p><a href="https://your-live-demo-link.com" target="_blank">🚀 <strong>Live Demo</strong></a></p>
+  <p><a href="https://karthickramalagar.github.io/Zentry/" target="_blank">🚀 <strong>Live Demo</strong></a></p>
 </div>
 
 ---
