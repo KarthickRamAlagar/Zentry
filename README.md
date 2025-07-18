@@ -1,9 +1,6 @@
 # 🌐 Zentry — The Web3 Landing Experience
-
 <p align="center">
-  <video width="100%" height="auto" autoplay loop muted playsinline controls>
-    <source src="https://your-cdn-or-raw-url.com/videos/BannerVideo.mp4" type="video/mp4">
-  </video>
+  <img src="https://raw.githubusercontent.com/KarthickRamAlagar/Zentry/main/public/img/localhost_5173_%20(1).png" alt="Zentry Banner" width="100%" />
 </p>
 
 <div style="margin-top:2px">
@@ -15,8 +12,11 @@
   <img src="https://img.shields.io/badge/-React_Use-black?style=for-the-badge&logo=react&logoColor=white&color=7E57C2" alt="react-use" />
 </div>
 
----
 <div align="center">
+  <p>
+Zentry  <span>is a futuristic landing page crafted to showcase the power of animation, scroll-based interactivity, and immersive sound.  
+Perfect for Web3 platforms, portfolios, or experimental digital playgrounds.</span>
+  </p>
   <p><a href="https://your-live-demo-link.com" target="_blank">🚀 <strong>Live Demo</strong></a></p>
 </div>
 
