@@ -77,7 +77,7 @@ const Features = () => {
          overflow-hidden rounded-md md:h-[65vh]"
         >
           <BentoCard
-            src="public/videos/feature-1.mp4"
+            src="/videos/feature-1.mp4"
             title={
               <>
                 radia<b>n</b>t
@@ -90,7 +90,7 @@ const Features = () => {
         <div className="grid h-[135vh] grid-cols-2 grid-rows-3 gap-7">
           <BentoTilt className="bento-tilt_1 row-span-1 md:col-span-1 md:row-span-2">
             <BentoCard
-              src="../../public/videos/feature-2.mp4"
+              src="/videos/feature-2.mp4"
               title={
                 <>
                   Zig<b>m</b>a
@@ -101,7 +101,7 @@ const Features = () => {
           </BentoTilt>
           <BentoTilt className="bento-tilt_1 row-span-1 ms-32 md:col-span-1 md:ms-0">
             <BentoCard
-              src="../../public/videos/feature-3.mp4"
+              src="/videos/feature-3.mp4"
               title={
                 <>
                   N<b>e</b>us
@@ -114,7 +114,7 @@ const Features = () => {
           </BentoTilt>
           <BentoTilt className="bento-tilt_1 me-14 md:col-span-1 md:me-0">
             <BentoCard
-              src="../../public/videos/feature-4.mp4"
+              src="/videos/feature-4.mp4"
               title={
                 <>
                   Az<b>u</b>r

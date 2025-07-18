@@ -54,7 +54,7 @@ const About = () => {
             alt="Background"
             className="absolute left-0 top-0 size-full object-cover"
           />
-        </div>
+        </div>  
       </div>
     </div>
   );
